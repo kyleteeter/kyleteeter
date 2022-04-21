@@ -36,11 +36,3 @@ Innovative and proactive Developer with 3+ years of experience creating web solu
 <a href="http://www.github.com/kyleteeter"><img src="https://github-readme-stats.vercel.app/api?username=kyleteeter&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="kyleteeter's GitHub stats" /></a>
 
 <a href="https://github.com/kyleteeter" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyleteeter&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/kyleteeter/github-gists-app" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kyleteeter&repo=github-gists-app&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/kyleteeter/events-app-ui" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kyleteeter&repo=events-app-ui&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/kyleteeter/javascript-project-1.2" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kyleteeter&repo=javascript-project-1.2&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/kyleteeter/localstorage-javascript" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kyleteeter&repo=localstorage-javascript&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
