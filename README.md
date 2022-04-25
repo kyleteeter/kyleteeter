@@ -1,6 +1,3 @@
-Hi 👋 My name is Kyle Teeter
-============================
-
 Software Engineer
 -----------------
 
@@ -28,11 +25,3 @@ Innovative and proactive Developer with 3+ years of experience creating web solu
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/kyleteeter" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/kyle-teeter/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/KyleATeeter" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/kyleteeter"><img src="https://github-readme-stats.vercel.app/api?username=kyleteeter&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="kyleteeter's GitHub stats" /></a>
-
-<a href="https://github.com/kyleteeter" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyleteeter&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
