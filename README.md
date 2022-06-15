@@ -6,7 +6,7 @@ Innovative and proactive Developer with 3+ years of experience creating web solu
 * 🌍  I'm based in Minnesota
 * 🖥️  See my portfolio at [kyle-teeter.com](http://kyle-teeter.com/)
 * ✉️  You can contact me at [kyleateeter@gmail.com](mailto:kyleateeter@gmail.com)
-* 🚀  I'm currently working on [Iceberg Web Design](http://https://www.icebergwebdesign.com/)
+* 🚀  I'm currently working on [Leadpages](https://www.leadpages.com/)
 
 ### Skills
 
