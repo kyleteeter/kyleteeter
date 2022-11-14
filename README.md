@@ -4,9 +4,9 @@ Software Engineer
 Innovative and proactive Developer with 3+ years of experience creating web solutions for SME businesses in Minnesota and beyond. Enjoy working in a dynamic environment and collaborating with team members. Excellent reputation for resolving problems and improving customer satisfaction. Skilled in learning and mastering new technologies with a focus on Front-End architecture. Solid comprehension of software lifecycles and SEO best practices.
 
 * 🌍  I'm based in Minnesota
-* 🖥️  See my portfolio at [kyle-teeter.com](http://kyle-teeter.com/){:target="_blank" rel="noopener"}
+* 🖥️  See my portfolio at [kyle-teeter.com](http://kyle-teeter.com/)
 * ✉️  You can contact me at [kyleateeter@gmail.com](mailto:kyleateeter@gmail.com)
-* 🚀  I'm currently working on [Leadpages](https://www.leadpages.com/){:target="_blank" rel="noopener"}
+* 🚀  I'm currently working on [Leadpages](https://www.leadpages.com/)
 
 ### Skills
 
