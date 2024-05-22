@@ -1,7 +1,11 @@
 Software Engineer
 -----------------
 
-Innovative and proactive Developer with 3+ years of experience creating web solutions for SME businesses in Minnesota and beyond. Enjoy working in a dynamic environment and collaborating with team members. Excellent reputation for resolving problems and improving customer satisfaction. Skilled in learning and mastering new technologies with a focus on Front-End architecture. Solid comprehension of software lifecycles and SEO best practices.
+In 2015, my journey began when I ventured into developing a semi-custom Learning Management System (LMS) for language learning. This marked my plunge into the fascinating world of coding and software engineering. Fast-forward to the present, after working with numerous SMEs, enhancing their online presence, I am now building key features for a SAAS startup, impacting thousands of users. 
+
+These days, I'm focused on building a fresh in-app blogging experience at Leadpages. What I love most is creating software that tracks user impact and gathers feedback for ongoing improvement. In this field, nothing's ever truly finished, and that's okay. Software keeps evolving, and that's what makes it exciting.
+
+When I step away from the keyboard, I find joy in simple pleasures. Gardening, biking, and quality time with my wife, toddler, and two cats keep me grounded. I also dabble in traditional skills like cheese-making, adding a touch of old-world charm to my life.
 
 * 🌍  I'm based in Minnesota
 * 🖥️  See my portfolio at [kyle-teeter.com](http://kyle-teeter.com/)
