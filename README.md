@@ -8,7 +8,6 @@ These days, I'm focused on building a fresh in-app blogging experience at Leadpa
 When I step away from the keyboard, I find joy in simple pleasures. Gardening, biking, and quality time with my wife, toddler, and two cats keep me grounded. I also dabble in traditional skills like cheese-making, adding a touch of old-world charm to my life.
 
 * 🌍  I'm based in Minnesota
-* 🖥️  See my portfolio at [kyle-teeter.com](http://kyle-teeter.com/)
 * ✉️  You can contact me at [kyleateeter@gmail.com](mailto:kyleateeter@gmail.com)
 * 🚀  I'm currently working on [Leadpages](https://www.leadpages.com/)
 
